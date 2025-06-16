@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Resume Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+    h2 {
+      text-align: center;
+    }
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    label {
+      font-weight: bold;
+    }
+    .form-group {
+      margin-bottom: 15px;
+    }
+    input[type="text"], input[type="email"], input[type="tel"], input[type="date"],
+    input[type="url"], input[type="number"], textarea, select {
+      width: 100%;
+      padding: 8px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    textarea {
+      resize: vertical;
+    }
+    input[type="file"] {
+      border: none;
+    }
+    .checkbox {
+      display: flex;
+      align-items: center;
+    }
+    .checkbox input {
+      margin-right: 10px;
+    }
+    button {
+      display: block;
+      margin: 20px auto;
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Resume Submission Form</h2>
+
+  <form action="#" method="post" enctype="multipart/form-data">
+    
+    <div class="form-group">
+      <label for="fieldname">Field Name</label>
+      <input type="text" id="fieldname" name="fieldname" required>
+    </div>
+
+    <div class="form-group">
+      <label for="fullname">Full Name</label>
+      <input type="text" id="fullname" name="fullname" required>
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+
+    <div class="form-group">
+      <label for="phone">Phone Number</label>
+      <input type="tel" id="phone" name="phone" required>
+    </div>
+
+    <div class="form-group">
+      <label for="dob">Date of Birth</label>
+      <input type="date" id="dob" name="dob" required>
+    </div>
+
+    <div class="form-group">
+      <label for="gender">Gender</label>
+      <select id="gender" name="gender" required>
+        <option value="">--Select--</option>
+        <option>Male</option>
+        <option>Female</option>
+        <option>Other</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="marital">Marital Status</label>
+      <select id="marital" name="marital" required>
+        <option value="">--Select--</option>
+        <option>Single</option>
+        <option>Married</option>
+        <option>Other</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="nationality">Nationality</label>
+      <input type="text" id="nationality" name="nationality" required>
+    </div>
+
+    <div class="form-group">
+      <label for="address">Address</label>
+      <textarea id="address" name="address" rows="3" required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="linkedin">LinkedIn Profile URL</label>
+      <input type="url" id="linkedin" name="linkedin">
+    </div>
+
+    <div class="form-group">
+      <label for="github">GitHub Profile URL</label>
+      <input type="url" id="github" name="github">
+    </div>
+
+    <div class="form-group">
+      <label for="photo">Upload Profile Photo</label>
+      <input type="file" id="photo" name="photo" accept="image/*" required>
+    </div>
+
+    <div class="form-group">
+      <label for="resume">Upload Resume (PDF Only)</label>
+      <input type="file" id="resume" name="resume" accept="application/pdf" required>
+    </div>
+
+    <div class="form-group">
+      <label for="objective">Career Objective</label>
+      <textarea id="objective" name="objective" rows="4" required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="qualification">Highest Qualification</label>
+      <input type="text" id="qualification" name="qualification" required>
+    </div>
+
+    <div class="form-group">
+      <label for="college">Name of College / University</label>
+      <input type="text" id="college" name="college" required>
+    </div>
+
+    <div class="form-group">
+      <label for="graduation">Year of Graduation</label>
+      <input type="number" id="graduation" name="graduation" min="1950" max="2099" required>
+    </div>
+
+    <div class="form-group">
+      <label for="skills">Technical Skills (HTML, CSS, JS, etc.)</label>
+      <textarea id="skills" name="skills" rows="3" required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="languages">Programming Languages Known</label>
+      <textarea id="languages" name="languages" rows="3" required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="certifications">Certifications (if any)</label>
+      <textarea id="certifications" name="certifications" rows="2"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="experience">Work Experience (Years)</label>
+      <input type="number" id="experience" name="experience" min="0" step="0.1" required>
+    </div>
+
+    <div class="form-group">
+      <label for="lastcompany">Last Company Worked At</label>
+      <input type="text" id="lastcompany" name="lastcompany">
+    </div>
+
+    <div class="form-group">
+      <label for="jobrole">Your Job Role / Designation</label>
+      <input type="text" id="jobrole" name="jobrole">
+    </div>
+
+    <div class="form-group">
+      <label for="knownlanguages">Languages Known</label>
+      <textarea id="knownlanguages" name="knownlanguages" rows="2" required></textarea>
+    </div>
+
+    <div class="form-group">
+      <label for="hobbies">Hobbies</label>
+      <textarea id="hobbies" name="hobbies" rows="2" required></textarea>
+    </div>
+
+    <div class="form-group checkbox">
+      <input type="checkbox" id="declaration" name="declaration" required>
+      <label for="declaration">I hereby declare that all information provided is true and correct to the best of my knowledge.</label>
+    </div>
+
+    <button type="submit">Submit Resume</button>
+  </form>
+
+</body>
+</html>

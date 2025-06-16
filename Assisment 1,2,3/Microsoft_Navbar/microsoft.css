@@ -1,0 +1,71 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+}
+
+/* Microsoft Navbar */
+.ms-topbar {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 10px 20px;
+    border-bottom: 1px solid #e5e5e5;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+
+.ms-logo img {
+    width: 100px;
+    height: auto;
+    margin-right: 100px; 
+}
+
+/* Menu Items */
+.ms-menu-item {
+    margin: 0 30px;
+    font-size: 20px;
+    color: #262626;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+/* Flex Spacer pushes icons to right */
+.ms-spacer {
+    flex-grow: 1;
+}
+
+/* Font Awesome Icons */
+.ms-menu-item i {
+    font-size: 20px;
+}
+
+/* Hover Effect */
+.ms-menu-item:hover {
+    color: #0067b8;
+}
+
+/* Responsive for Mobile */
+@media screen and (max-width: 768px) {
+    .ms-topbar {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .ms-logo {
+        margin-bottom: 10px;
+    }
+
+    .ms-menu-item {
+        margin: 6px;
+    }
+}
