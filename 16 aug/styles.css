@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.navbar {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.nav-link {
+    color: white;
+    padding: 10px;
+    font-style: normal;
+    font-size: medium;
+    font-weight: 400;
+    cursor: pointer;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    /* height: calc(100% - 50px); */
+}
+
+.left-card {
+    width: 50%;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.right-card {
+    width: 50%;
+    height: 100%;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 0%;
+}
+
+
+.left-card-text{
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+    color: antiquewhite;
+    text-align: left;
+}
+
+.right-card-text{
+    position: absolute;
+    top: 40%;
+    left: 66%;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+    color: antiquewhite;
+    text-align: left;
+}
+
+.left-card-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1.5px solid white;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.left-card-button:hover {
+  background-color: white;
+  color: black;
+}
+
+.right-card-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1.5px solid white;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.right-card-button:hover {
+  background-color: white;
+  color: black;
+}
