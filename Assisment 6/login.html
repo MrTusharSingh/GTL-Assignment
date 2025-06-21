@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login Form</title>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    crossorigin="anonymous"
+  />
+  
+  <style>
+    body {
+      background: linear-gradient(to right, #ece9e6, #ffffff);
+      min-height: 100vh;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+    }
+
+    .login-wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: calc(100vh - 56px); /* Adjust for navbar height */
+      padding-top: 56px;
+    }
+
+    .login-form {
+      background-color: #ffffff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 400px;
+    }
+
+    .btn-primary {
+      background-color: #0069d9;
+      border: none;
+      transition: background 0.3s ease;
+    }
+
+    .btn-primary:hover {
+      background-color: #0053aa;
+    }
+
+    nav a {
+      text-decoration: none;
+      color: inherit;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <a class="navbar-brand" href="index.html">My Contact</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="addcontact.html">Add Contact</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="editcontact.html">Edit Contact</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">View Contact</a>
+      </li>
+    </ul>
+    <div class="form-inline my-2 my-lg-0">
+      <a href="login.html" class="btn btn-light my-2 my-sm-0 mr-2">Login</a>
+      <a href="signup.html" class="btn btn-light my-2 my-sm-0">Sign up</a>
+    </div>
+  </div>
+</nav>
+
+<div class="login-wrapper">
+  <div class="login-form">
+    <form>
+      <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input
+          type="email"
+          class="form-control"
+          id="exampleInputEmail1"
+          aria-describedby="emailHelp"
+          required
+        />
+        <small id="emailHelp" class="form-text text-muted">
+          We'll never share your email with anyone else.
+        </small>
+      </div>
+      <div class="form-group">
+        <label for="exampleInputPassword1">Password</label>
+        <input
+          type="password"
+          class="form-control"
+          id="exampleInputPassword1"
+          required
+        />
+      </div>
+      <div class="form-group form-check">
+        <input
