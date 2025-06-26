@@ -15,11 +15,11 @@
 
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201/resume%20project.html" target="_blank">Assisment 1 - Resume Project</a><br>
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Apple_Navbar/apple.html" target="_blank">Assisment 1,2,3 - Apple Navbar</a><br>
+<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Apple_Navbar/apple.html" target="_blank">Assisment 2 and 3 - Apple Navbar</a><br>
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Microsoft_Navbar/microsoft.html" target="_blank">Assisment 1,2,3 - Microsoft Navbar</a><br>
+<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Microsoft_Navbar/microsoft.html" target="_blank">Assisment 2 and 3 - Microsoft Navbar</a><br>
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/WebDesign/webdesign.html" target="_blank">Assisment 1,2,3 - Web Design</a><br>
+<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/WebDesign/webdesign.html" target="_blank">Assisment 2 and 3 - Web Design</a><br>
 
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment/16%20aug/index.html" target="_blank">Assisment - Assisment 4 - Project</a><br>
 
