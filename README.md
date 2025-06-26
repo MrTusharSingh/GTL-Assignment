@@ -1,1 +1,1 @@
-<a href="[https://www.w3schools.com](https://mrtusharsingh.github.io/GTL-Assignment/Assisment)"> PROJECTS LINKS </a>
+<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment"> PROJECTS LINKS </a>
