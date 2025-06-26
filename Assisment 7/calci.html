@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stylish Arithmetic Calculator</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+      background-size: 400% 400%;
+      animation: gradientBG 10s ease infinite;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .calculator {
+      background: rgba(255, 255, 255, 0.4);
+      backdrop-filter: blur(20px);
+      border-radius: 20px;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+      padding: 40px 30px;
+      width: 100%;
+      max-width: 350px;
+      text-align: center;
+      color: #000;
+      animation: fadeScale 1s ease forwards;
+      transform: scale(0.9);
+      opacity: 0;
+    }
+
+    @keyframes fadeScale {
+      to {
+        transform: scale(1);
+        opacity: 1;
+      }
+    }
+
+    .calculator h2 {
+      margin-bottom: 25px;
+      font-size: 26px;
+      color: #000;
+    }
+
+    input[type="number"],
+    select {
+      width: 100%;
+      padding: 14px;
+      margin: 12px 0;
+      font-size: 16px;
+      border: none;
+      border-radius: 12px;
+      outline: none;
+      background: rgba(255, 255, 255, 0.85);
+      color: #000;
+      transition: 0.3s ease;
+    }
+
+    input::placeholder {
+      color: #333;
+    }
+
+    select {
+      background: rgba(255, 255, 255, 0.85);
+    }
+
+    button {
+      width: 100%;
+      padding: 14px;
+      margin-top: 15px;
+      font-size: 18px;
+      background: linear-gradient(to right, #57c6a1, #74ebd5);
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+      background: linear-gradient(to right, #4abf9b, #67cde2);
+    }
+
+    .result {
+      margin-top: 20px;
+      font-size: 20px;
+      font-weight: 600;
+      color: #000;
+      min-height: 30px;
+    }
+
+    @media (max-width: 400px) {
+      .calculator {
+        padding: 30px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="calculator">
+    <h2>Calculator( Calci )</h2>
+    <input type="number" id="num1" placeholder="Enter first number" />
+    <input type="number" id="num2" placeholder="Enter second number" />
+    <select id="operator">
+      <option value="+">Addition (+)</option>
+      <option value="-">Subtraction (−)</option>
+      <option value="*">Multiplication (×)</option>
+      <option value="/">Division (÷)</option>
+    </select>
+    <button onclick="calculate()">Calculate</button>
+    <div class="result" id="result"></div>
+  </div>
+
+  <script>
+    function calculate() {
+      const num1 = parseFloat(document.getElementById('num1').value);
+      const num2 = parseFloat(document.getElementById('num2').value);
+      const operator = document.getElementById('operator').value;
+      let result;
+
+      const resultDiv = document.getElementById('result');
+
+      if (isNaN(num1) || isNaN(num2)) {
+        resultDiv.innerText = ' Please enter valid numbers!';
+        return;
+      }
+
+      switch (operator) {
+        case '+':
+          result = num1 + num2;
+          break;
+        case '-':
+          result = num1 - num2;
+          break;
+        case '*':
+          result = num1 * num2;
+          break;
+        case '/':
+          if (num2 === 0) {
+            resultDiv.innerText = 'Cannot divide by zero';
+            return;
+          }
+          result = num1 / num2;
+          break;
+        default:
+          result = 'Invalid operation';
+      }
+
+      resultDiv.innerText = `Result: ${result}`;
+    }
+  </script>
+</body>
+</html>
