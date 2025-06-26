@@ -1,4 +1,4 @@
-<a href="[https://mrtusharsingh.github.io/GTL-Assignment/Assisment](https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html)"> Portfolio  </a>
+<a href="https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html"> Portfolio  </a>
 
 <b> Another Projects </b>
 
