@@ -2,19 +2,6 @@
 
 <b> Another Projects </b>
 
-<b> Add the name after the assisment </b>
-
-1. 16 aug/index.html
-2. Assisment 1,2,3/Apple_Navbar/apple.html
-3. Assisment 1,2,3/Microsoft_Navbar/microsoft.html
-4. Assisment 1,2,3/WebDesign/webdesign.html
-5. Assisment 1/resume project.html
-6. Assisment 5/bootstrap.html
-7. Assisment 6/index.html
-8. Assisment 7/calci.html
-
-
-
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201/resume%20project.html" target="_blank">Assisment 1 - Resume Project</a><br>
 
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Apple_Navbar/apple.html" target="_blank">Assisment 2 and 3 - Apple Navbar</a><br>
