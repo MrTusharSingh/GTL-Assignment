@@ -1,4 +1,6 @@
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment"> PROJECTS LINKS  </a>
+<a href="[https://mrtusharsingh.github.io/GTL-Assignment/Assisment](https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html)"> Portfolio  </a>
+
+<b> Another Projects </b>
 
 <b> Add the name after the assisment </b>
 
@@ -21,7 +23,7 @@
 
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/WebDesign/webdesign.html" target="_blank">Assisment 2 and 3 - Web Design</a><br>
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment/16%20aug/index.html" target="_blank">Assisment - Assisment 4 - Project</a><br>
+<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment/16%20aug/index.html" target="_blank">Assisment 4 - Project</a><br>
 
 <a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%205/bootstrap.html" target="_blank">Assisment 5 - Bootstrap</a><br>
 
