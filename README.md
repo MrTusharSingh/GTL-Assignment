@@ -1,19 +1,52 @@
-<a href="https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html"> Portfolio  </a>
+# 🚀 Tushar Singh – Web Development Projects Portfolio
 
-<b> Another Projects </b>
+Welcome to my collection of web development assignments and personal projects!  
+Each project below showcases a different aspect of front-end web development, built using HTML, CSS, and JavaScript. Feel free to explore the live demos by clicking on the links.
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201/resume%20project.html" target="_blank">Assisment 1 - Resume Project</a><br>
+---
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Apple_Navbar/apple.html" target="_blank">Assisment 2 and 3 - Apple Navbar</a><br>
+## 🌐 [View My Personal Portfolio](https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html)
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Microsoft_Navbar/microsoft.html" target="_blank">Assisment 2 and 3 - Microsoft Navbar</a><br>
+---
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/WebDesign/webdesign.html" target="_blank">Assisment 2 and 3 - Web Design</a><br>
+## 📁 Projects Breakdown
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment/16%20aug/index.html" target="_blank">Assisment 4 - Project</a><br>
+### ✅ Assisment 1
+- 🔗 [Resume Project](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201/resume%20project.html)
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%205/bootstrap.html" target="_blank">Assisment 5 - Bootstrap</a><br>
+### ✅ Assisment 2 & 3
+- 🍎 [Apple Navbar](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Apple_Navbar/apple.html)
+- 🪟 [Microsoft Navbar](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/Microsoft_Navbar/microsoft.html)
+- 💻 [Web Design Layout](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%201%2C2%2C3/WebDesign/webdesign.html)
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%206/index.html" target="_blank">Assisment 6 - Index Page</a><br>
+### ✅ Assisment 4
+- 📅 [16th August Project](https://mrtusharsingh.github.io/GTL-Assignment/Assisment/16%20aug/index.html)
 
-<a href="https://mrtusharsingh.github.io/GTL-Assignment/Assisment%207/calci.html" target="_blank">Assisment 7 - Calculator Project</a><br>
+### ✅ Assisment 5
+- 🧩 [Bootstrap Project](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%205/bootstrap.html)
+
+### ✅ Assisment 6
+- 🏠 [Index Page](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%206/index.html)
+
+### ✅ Assisment 7
+- 🧮 [Stylish Calculator](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%207/calci.html)
+
+---
+
+## 📌 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (in Assisment 5)
+
+---
+
+## 📧 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tusharsinghofficial)
+- 🌐 [Portfolio Website](https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html)
+- ✉️ tusharsinghkumar04@gmail.com
+
+---
+
+> 🚧 This repository will continue to grow with more creative and advanced projects. Stay tuned!
