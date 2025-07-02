@@ -31,6 +31,12 @@ Each project below showcases a different aspect of front-end web development, bu
 ### ✅ Assisment 7
 - 🧮 [Stylish Calculator](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%207/calci.html)
 
+### ✅ Assisment 8
+- ⚙️ [ array_length_and_loop js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/array_length_and_loop.js)
+- ⚙️ [ ifelse js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/ifelse.js)
+- ⚙️ [ loops js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/loops.js)
+- ⚙️ [ switch js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/switch.js)
+
 ---
 
 ## 📌 Technologies Used
