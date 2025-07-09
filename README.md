@@ -31,11 +31,40 @@ Each project below showcases a different aspect of front-end web development, bu
 ### ✅ Assisment 7
 - 🧮 [Stylish Calculator](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%207/calci.html)
 
-### ✅ Assisment 8
-- ⚙️ [ array_length_and_loop js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/array_length_and_loop.js)
-- ⚙️ [ ifelse js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/ifelse.js)
-- ⚙️ [ loops js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/loops.js)
-- ⚙️ [ switch js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/switch.js)
+### ✅ Assisment 8 (Js Basic)
+- ⚙️ [array_length_and_loop.js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/array_length_and_loop.js)
+- ⚙️ [ifelse.js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/ifelse.js)
+- ⚙️ [loops.js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/loops.js)
+- ⚙️ [switch.js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/switch.js)
+
+### ✅ Assisment 9 (Java Basics)
+- ⚙️ [AgeCategory.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/AgeCategory.java)
+- ⚙️ [Calculator.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Calculator.java)
+- ⚙️ [CharCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/CharCheck.java)
+- ⚙️ [CheckPositive.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/CheckPositive.java)
+- ⚙️ [CheckVowel.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/CheckVowel.java)
+- ⚙️ [DiscountCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/DiscountCheck.java)
+- ⚙️ [DivisibleBy5.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/DivisibleBy5.java)
+- ⚙️ [EvenOddCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/EvenOddCheck.java)
+- ⚙️ [GradeCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/GradeCheck.java)
+- ⚙️ [GreaterThan100.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/GreaterThan100.java)
+- ⚙️ [Hello.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Hello.java)
+- ⚙️ [IsAdult.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/IsAdult.java)
+- ⚙️ [LargestOfThree.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/LargestOfThree.java)
+- ⚙️ [LeapYearCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/LeapYearCheck.java)
+- ⚙️ [LoginStatus.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/LoginStatus.java)
+- ⚙️ [NumberType.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/NumberType.java)
+- ⚙️ [OverloadSum.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/OverloadSum.java)
+- ⚙️ [PasswordLength.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/PasswordLength.java)
+- ⚙️ [SeasonFinder.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/SeasonFinder.java)
+- ⚙️ [Static.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Static.java)
+- ⚙️ [Student.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Student.java)
+- ⚙️ [TemperatureCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/TemperatureCheck.java)
+- ⚙️ [TimeOfDay.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/TimeOfDay.java)
+- ⚙️ [TriangleType.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/TriangleType.java)
+- ⚙️ [VotingEligibility.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/VotingEligibility.java)
+- ⚙️ [assign1.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/assign1.java)
+- ⚙️ [stat.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/stat.java)
 
 ---
 
@@ -51,7 +80,7 @@ Each project below showcases a different aspect of front-end web development, bu
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tusharsingh2011/)
 - 🌐 [Portfolio Website](https://tusharsinghoffical.github.io/Tusharsingh/Portfolio/index.html)
-- ✉️ tusharsinghkumar04@gmail.com 
+- ✉️ tusharsinghkumar04@gmail.com
 
 ---
 
