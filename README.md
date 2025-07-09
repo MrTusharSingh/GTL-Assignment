@@ -67,16 +67,6 @@ Each project below showcases a different aspect of front-end web development, bu
 - ⚙️ [VotingEligibility.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/VotingEligibility.java)
 - ⚙️ [assign1.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/assign1.java)
 - ⚙️ [stat.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/stat.java)
-
-#### 📦 Compiled Files (.class)
-_Location: `/out/production/java assignment training/`_
-- 🧩 [Calculator.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/Calculator.class)
-- 🧩 [CheckPositive.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/CheckPositive.class)
-- 🧩 [OverloadSum.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/OverloadSum.class)
-- 🧩 [Student.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/Student.class)
-- 🧩 [assign1.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/assign1.class)
-- 🧩 [stat.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/stat.class)
-
 ---
 
 ## 📌 Technologies Used
