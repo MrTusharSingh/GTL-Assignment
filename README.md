@@ -38,6 +38,8 @@ Each project below showcases a different aspect of front-end web development, bu
 - ⚙️ [switch.js](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%208/basic%20javascript/switch.js)
 
 ### ✅ Assisment 9 (Java Basics)
+
+#### 🔧 Source Code (.java)
 - ⚙️ [AgeCategory.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/AgeCategory.java)
 - ⚙️ [Calculator.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Calculator.java)
 - ⚙️ [CharCheck.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/CharCheck.java)
@@ -66,6 +68,15 @@ Each project below showcases a different aspect of front-end web development, bu
 - ⚙️ [assign1.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/assign1.java)
 - ⚙️ [stat.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/stat.java)
 
+#### 📦 Compiled Files (.class)
+_Location: `/out/production/java assignment training/`_
+- 🧩 [Calculator.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/Calculator.class)
+- 🧩 [CheckPositive.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/CheckPositive.class)
+- 🧩 [OverloadSum.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/OverloadSum.class)
+- 🧩 [Student.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/Student.class)
+- 🧩 [assign1.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/assign1.class)
+- 🧩 [stat.class](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/out/production/java%20assignment%20training/stat.class)
+
 ---
 
 ## 📌 Technologies Used
@@ -73,6 +84,7 @@ Each project below showcases a different aspect of front-end web development, bu
 - CSS3
 - JavaScript
 - Bootstrap (in Assisment 5)
+- Java (in Assisment 9)
 
 ---
 
