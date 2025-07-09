@@ -72,7 +72,7 @@ Each project below showcases a different aspect of front-end web development, bu
 ## 📌 Technologies Used
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (in Assisment 8)
 - Bootstrap (in Assisment 5)
 - Java (in Assisment 9)
 
