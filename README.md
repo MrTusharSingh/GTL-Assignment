@@ -9,6 +9,22 @@ Each project below showcases a different aspect of front-end or back-end develop
 
 ---
 
+## 📌 Quick Index
+
+- [🌐 Personal Portfolio](#-personal-portfolio)
+- [✅ Assignment 1 – Resume](#-assignment-1)
+- [✅ Assignment 2 & 3 – Navbars & Web Layout](#-assignment-2--3)
+- [✅ Assignment 4 – 16 August Project](#-assignment-4)
+- [✅ Assignment 5 – Bootstrap](#-assignment-5)
+- [✅ Assignment 6 – Index Page](#-assignment-6)
+- [✅ Assignment 7 – Calculator](#-assignment-7)
+- [✅ Assignment 8 – JavaScript Basics](#-assignment-8-js-basics)
+- [✅ Assignment 9 – Java Basics](#-assignment-9-java-basics--oop-concepts)
+- [✅ Assignment 10 – Java OOP Advanced](#-assignment-10-added-oop-concepts)
+- [📧 Connect with Me](#-connect-with-me)
+
+---
+
 ## 📁 Projects Breakdown
 
 ### ✅ Assignment 1
