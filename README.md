@@ -18,7 +18,7 @@ Each project below showcases a different aspect of front-end or back-end develop
 - [✅ Assignment 7 – Calculator](#-assignment-7)
 - [✅ Assignment 8 – JavaScript Basics](#-assignment-8-js-basics)
 - [✅ Assignment 9 – Java Basics](#-assignment-9-java-basics--oop-concepts)
-- [✅ Assignment 10 – Java OOP Advanced]([#-assignment-10-added-oop-concepts](https://github.com/MrTusharSingh/GTL-Assignment?tab=readme-ov-file#-assignment-10-added-oop-concepts-))
+- [✅ Assignment 10 – Java OOP Advanced](https://github.com/MrTusharSingh/GTL-Assignment?tab=readme-ov-file#-assignment-10-added-oop-concepts-)
 - [📧 Connect with Me](#-connect-with-me)
 
 ---
