@@ -66,7 +66,7 @@ Each project below showcases a different aspect of front-end or back-end develop
 - 🧾 [assign1.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/assign1.java)
 - 🧾 [stat.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/stat.java)
 
-#### 🔹 Assignment 10 (Added OOP Concepts )
+#### ✅ Assignment 10 (Added OOP Concepts )
 - 🧾 [Account.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/Account.java)
 - 🧾 [BankDemo.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/BankDemo.java)
 - 🧾 [BlockDemo.java](https://mrtusharsingh.github.io/GTL-Assignment/Assisment%209/BlockDemo.java)
